@@ -6,15 +6,47 @@ body {
 
 body,
 caption,
-th,
-td,
 input,
 textarea,
 select,
 option,
 legend,
-fieldset {
-  font-family: "Helvetica Neue", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+fieldset,
+th, td {
+  font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+th, td {
+	font-size: .8em;
+}
+
+
+.table-row {
+	border-bottom: 1px solid #ccc;
+}
+
+.table-header {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 10px;
+}
+
+td.table-column .one {
+	border-right: 1px solid #ccc;
+}
+
+.education-training {
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+#email {
+	color: #888;
+	margin-top: -10px;
+	font-size: 1.1em;
+	font-style: italic;
+}
+
+p {
+	font-size: .8em;
 }
 
 pre,
@@ -40,7 +72,8 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.3em;
+	color: #2F4F4F;
   line-height: 1.3em;
   margin-top: 0.667em; /* Equivalent to 1em in the page's base font: 1 / 1.5 = 0.667em */
   margin-bottom: 0.667em;
@@ -176,7 +209,7 @@ th,
 thead th,
 tbody th {
   text-align: left; /* LTR */
-  padding: 0;
+  padding: 5px;
   border-bottom: none;
 }
 
