@@ -20,6 +20,14 @@ th, td {
 	font-size: .8em;
 }
 
+#name {
+	display: inline-block;
+}
+
+#email {
+	display: inline-block;
+	padding-left: 20px;
+}
 
 .table-row {
 	border-bottom: 1px solid #ccc;
@@ -28,6 +36,7 @@ th, td {
 .table-header {
 	border-bottom: 1px solid #ccc;
 	padding-bottom: 10px;
+	background-color: #82A7A7;
 }
 
 td.table-column .one {
@@ -43,6 +52,16 @@ td.table-column .one {
 	margin-top: -10px;
 	font-size: 1.1em;
 	font-style: italic;
+}
+
+#bio {
+	float: right;
+	width: 180px;
+	height: 160px;
+	vertical-align: text-top;
+	padding: 3px;
+	margin: 5px;
+	border: 1px solid #ccc;
 }
 
 p {
