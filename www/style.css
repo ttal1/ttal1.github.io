@@ -25,8 +25,19 @@ th, td {
 }
 
 #email {
-	display: inline-block;
+	display: inline;
 	padding-left: 20px;
+	padding-top: 5px;
+}
+
+#linked-in {
+	display: inline;
+	padding-top: 15px;
+	float: right;
+}
+
+.header {
+	margin-bottom: -15px;
 }
 
 .table-row {
@@ -36,11 +47,16 @@ th, td {
 .table-header {
 	border-bottom: 1px solid #ccc;
 	padding-bottom: 10px;
-	background-color: #82A7A7;
+	background-color: #eee;
 }
 
 td.table-column .one {
 	border-right: 1px solid #ccc;
+}
+
+.grid_6,
+.grid_12 {
+	margin-bottom: -10px;
 }
 
 .education-training {
