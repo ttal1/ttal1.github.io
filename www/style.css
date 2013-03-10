@@ -30,9 +30,11 @@ th, td {
 	padding-top: 5px;
 }
 
+#research-gate,
 #linked-in {
 	display: inline;
 	padding-top: 15px;
+  padding-left: 20px;
 	float: right;
 }
 
@@ -71,9 +73,7 @@ td.table-column .one {
 }
 
 #bio {
-	float: right;
-	width: 180px;
-	height: 180px;
+  width: 400px;
 	vertical-align: text-top;
 	padding: 3px;
 	margin: 5px;
