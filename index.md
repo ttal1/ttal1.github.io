@@ -12,9 +12,6 @@ The Tal lab studies whether host-associated microbiota modify the developmental 
 
 ## Education and Training
 
-I study developmental vascular toxicity in zebrafish.
-
-
 ### Biologist – Principal Investigator
 
 - Integrated Systems Toxicology Division, Genetics and Cellular Toxicology Branch
