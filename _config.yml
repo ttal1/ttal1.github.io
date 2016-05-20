@@ -1,0 +1,10 @@
+# Site settings
+title: Tamara Tal, Ph.D.
+tag_text: Tamara Tal, Ph.D.
+description: The Tal lab studies whether host-associated microbiota modify the developmental toxicity of environmental chemicals. The group also works to resolve how early life stage thyroid hormone disruption impacts brain development and function in zebrafish. 
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
