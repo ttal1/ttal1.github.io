@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="tamaratal.png" title="Tamara Tal, Ph.D. post-doctoral fellow at the U.S. EPA in RTP, North Carolina" id="bio" width="600px" height="480px"/>
+<img src="tamaratal.png" title="Tamara Tal, Ph.D. biologist - principal investigator at the U.S. EPA in RTP, North Carolina" id="bio" width="600px" height="480px"/>
 
 [tamaraltal@gmail.com](mailto:tamaraltal@gmail.com) | [LinkedIn](http://www.linkedin.com/pub/tamara-tal/14/122/475) | [ResearchGate](http://www.researchgate.net/profile/Tamara_Tal/)
 
