@@ -104,8 +104,8 @@ The Tal lab studies whether host-associated microbiota modify the developmental 
 | North Carolina Graduate Student Award                                         | Society of Toxicology                                              | Research Triangle Park, NC | 2006      |
 | Metals Specialty Section Student Award                                        | Society of Toxicology                                              | San Diego, CA              | 2006      |
 | North Carolina Graduate Student Award                                         | Society of Toxicology                                              | Chapel Hill, NC            | 2005      |
-| Florida Bright Future Scholarship                                             | State of Florida                                                   | Florida                    | 1998-2003 |
-| Honors College                                                                | University of Central Florida                                      | Gainesville, FL            | 1998-2003 |
+| Florida Bright Future Scholarship                                             |                                                                    | Florida                    | 1998-2003 |
+| Honors College                                                                | University of Central Florida                                      | Orlando, FL                | 1998-2003 |
 
 ## Science Communication
 
